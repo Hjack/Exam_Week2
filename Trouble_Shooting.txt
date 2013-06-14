@@ -1,0 +1,2 @@
+Trouble Shooting
+I think the first type is an unexpected error (i.e. the example with GMT time), the second step is a syntax/human error and the final type is failures (i.e. the network crashing).
